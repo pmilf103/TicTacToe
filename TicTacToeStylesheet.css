@@ -25,15 +25,17 @@ td {
 	-webkit-user-select: none;
 }
 
-.circle{	background-color: red;	}
-.cross {	background-color: blue;	}
-.empty {	background-color: grey;	}
+.circle{	background-color: #DB5656;	}
+.cross {	background-color: #56BADB;	}
+.empty {	background-color: #B0B0B0;	}
 
 
 
 button {
-	height: 50px;
-	width: 100px;
+	height: 10%;
+	width: 10%;
+	margin-left: 45%;
+	margin-top: 20px;
 	font-family: arial;
 	font-size: 30px;
 	border-radius: 5px;
